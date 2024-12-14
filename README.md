@@ -65,21 +65,21 @@
     Enter the GPA: 2.5<br>
     Enter the number of previous attempts: 2<br><br>
 
-    Enter operation code: a<br>
-    Enter the name of the student: Jing Wang<br>
-    Enter the NetID of the student: jw<br>
-    Enter the COP2510 letter grade: A<br>
-    Enter the GPA: 3.5<br>
-    Enter the number of previous attempts: 1<br><br>
+    Enter operation code: a
+    Enter the name of the student: Jing Wang
+    Enter the NetID of the student: jw
+    Enter the COP2510 letter grade: A
+    Enter the GPA: 3.5
+    Enter the number of previous attempts: 1
 
-    Enter operation code: l<br>
-    |----------------------|----------------------|---------|-----|----------|<br>
-    | Name                 | NetID                | COP2510 | GPA | Attempts |<br>
-    |----------------------|----------------------|---------|-----|----------|<br>
-    | Mauricio Pamplona    | mauriciop            | B       | 2.5 | 2        |<br>
-    |----------------------|----------------------|---------|-----|----------|<br>
-    | Jing Wang            | jw                   | A       | 3.5 | 1        |<br>
-    |----------------------|----------------------|---------|-----|----------|<br>
+    Enter operation code: l
+    |----------------------|----------------------|---------|-----|----------|
+    | Name                 | NetID                | COP2510 | GPA | Attempts |
+    |----------------------|----------------------|---------|-----|----------|
+    | Mauricio Pamplona    | mauriciop            | B       | 2.5 | 2        |
+    |----------------------|----------------------|---------|-----|----------|
+    | Jing Wang            | jw                   | A       | 3.5 | 1        |
+    |----------------------|----------------------|---------|-----|----------|
   </div>
   <p><strong>Explanation:</strong></p>
   <ul>
